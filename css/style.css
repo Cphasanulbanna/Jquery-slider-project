@@ -1,0 +1,24 @@
+body {
+    font-size: 17px;
+    overflow-x: hidden;
+    min-width: 320px;
+    font-weight: 400;
+}
+.wrapper {
+    width: 90%;
+    margin: 0 auto;
+    max-width: 1280px;
+}
+div.item {
+    background: #4dc7a0;
+}
+div.item img {
+    width: 100%;
+    display: block;
+}
+#imageslider {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
